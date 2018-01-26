@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 78e0311b974b96a48b8530e475ce7f7b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyprefab: {fileID: 154556, guid: df5b9bf74a2938e439b6dcf9d7122e0c, type: 2}
+  - playerLife: {fileID: 109614, guid: ba2dd6282f3ba5d42be4dfbbbee907e0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

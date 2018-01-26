@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: a589a8438ec170d42bfcfe980fa9d0f7
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - enemyMissile: {fileID: 177666, guid: 21abea1a1a63ede42b67aa8415ec9924, type: 2}
+  - laserSound: {fileID: 8300000, guid: 71777a10c95432a4db298e645f50e4a2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
